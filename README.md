@@ -57,7 +57,11 @@ Welcome to the Movie Recommender System! This application suggests movies based 
 - `app.py`: Main application script.
 - `movie_list.pkl`: Pickled file containing the list of movies.
 - `similarity.pkl`: Pickled file containing the similarity matrix.
+-Data Files
+   -/kaggle/input/tmdb-movie-metadata/tmdb_5000_movies.csv
+   -/kaggle/input/tmdb-movie-metadata/tmdb_5000_credits.csv
 
+  
 Acknowledgements
 Streamlit
 The Movie Database (TMDb)
