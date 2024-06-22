@@ -67,3 +67,6 @@ Streamlit
 The Movie Database (TMDb)
 Special thanks to the developers and contributors of the libraries and tools used in this project.
 
+![Screenshot (2126)](https://github.com/Gopal2210G/movie_recomm_app/assets/139383848/d4c13e0b-8657-46ab-8d18-5bbaa09bf7b7)
+![Screenshot (2128)](https://github.com/Gopal2210G/movie_recomm_app/assets/139383848/ba670560-5693-4f20-b296-fa9a746a2d4a)
+
